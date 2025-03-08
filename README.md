@@ -14,9 +14,12 @@
 
 ## 使用方法（How to use）
 
-1. 运行`steamexplorer.py`脚本（Run the 'steamexplorer.py' script）
-2. 在文件浏览器中导航到Steam游戏目录（通常在`D:\Steam\steamapps\common`）（Navigate to the Steam game directory in the file browser (usually in 'D:Steamsteamappscommon')）
-3. 选择游戏的可执行文件(.exe)启动游戏（Select the game's executable (.exe) to launch the game）
+1. 下载Spacewar压缩包并进行解压缩，得到SteamworksExample.exe可执行文件（Download the Spacewar archive and unzip it to get SteamworksExample.exe executable file）
+2. 下载Spacewar游戏，打开Steam，按住win+R打开运行窗口，在运行窗口中输入steam://install/480进行下载（Download the Spacewar game, open Steam, press and hold win+R to open the running window, enter the steam://install/480 in the running window to download）
+3. 下载完成后，导航到Spacewar目录D:\Steam\steamapps\common\Spacewar（下载在哪个盘就在哪个盘找），将解压缩出来的SteamworksExample.exe粘贴复制进去，并点击替换文件即可。（After the download is complete, navigate to the Spacewar directory D:SteamsteamappscommonSpacewar (find it on which disk the download is on), paste the unzipped SteamworksExample.exe into it, and click Replace File.）
+4. 在Steam上打开Spacewar。（Open Spacewar on Steam）
+5. 在文件浏览器中导航到Steam游戏目录（通常在`D:\Steam\steamapps\common`）（Navigate to the Steam game directory in the file browser (usually in 'D:Steamsteamappscommon')）
+6. 选择想要游玩游戏的可执行文件(.exe)启动游戏（Select the game's executable (.exe) to launch the game）
 
 ## 要求（Request）
 
